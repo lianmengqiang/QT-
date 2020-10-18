@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="/1">C:/Users/nh/Pictures/Saved Pictures/柏腾.jpg</file>
+        <file>C:/Users/nh/Pictures/Saved Pictures/幻音.png</file>
+    </qresource>
+</RCC>
